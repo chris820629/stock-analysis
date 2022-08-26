@@ -11,7 +11,8 @@
   - DQ shows the highest fluctuation where it has almost 200% return in 2017 but has the highest losss in 2018 falling by 62.6% 
 2. Execution time original vs. refactored 
   - The refactored execution time is shorter than the original script
-
+![Refactored 2017.png](https://github.com/chris820629/stock-analysis/blob/main/Refactored%202017.png)
+![Refactored 2018.png](https://github.com/chris820629/stock-analysis/blob/main/Refactored%202018.png)
 ### Summary
 ***Refactoring code (Concept):
 1. Advantage
@@ -27,3 +28,5 @@
   - Reduces the nested for loop which can be messy when you are looping through two kinda of array. 
 2. Disadvantage of refactoring
   - The comments make the codes a bit hard to follow especially if you have "If" and "For" functions embeddeed. In this case, the for loop takes up the entire window and I have to screw back and forth to review the for loop code.
+  
+![Original vs. Refactored Scripts.png](https://github.com/chris820629/stock-analysis/blob/main/Original%20vs.%20Refactored%20Scripts.png)
