@@ -20,6 +20,7 @@
 2. Disadvantage
   - Losing context: it is hard to understand and trace back to the original coding pattern structure by the first coder
   - Imprecise refactoring can easily cause bugs: it is harder to breakdown the functions to debug line by line. 
+
 ***Refactoring code (VBA): 
 1. Advantage of refactoring
   - Looks cleaner with the comments in green to also better help breaking down the code pattern, also explaining why each line of code is for
